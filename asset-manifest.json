@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/broduction/static/css/main.4be81994.css",
-    "main.js": "/broduction/static/js/main.7b74495c.js",
+    "main.css": "/broduction/static/css/main.e8bc3677.css",
+    "main.js": "/broduction/static/js/main.6d43f5f1.js",
     "static/js/787.f21abb12.chunk.js": "/broduction/static/js/787.f21abb12.chunk.js",
     "static/media/logo.svg": "/broduction/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/broduction/index.html",
-    "main.4be81994.css.map": "/broduction/static/css/main.4be81994.css.map",
-    "main.7b74495c.js.map": "/broduction/static/js/main.7b74495c.js.map",
+    "main.e8bc3677.css.map": "/broduction/static/css/main.e8bc3677.css.map",
+    "main.6d43f5f1.js.map": "/broduction/static/js/main.6d43f5f1.js.map",
     "787.f21abb12.chunk.js.map": "/broduction/static/js/787.f21abb12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4be81994.css",
-    "static/js/main.7b74495c.js"
+    "static/css/main.e8bc3677.css",
+    "static/js/main.6d43f5f1.js"
   ]
 }
